@@ -8,20 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6109439a0bc12e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d7a9041ae78ccd6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test link.md",
+                "file": "test file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd60bd43a8e5f1d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Third test node.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "992ee2ce20d8954f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Third test node.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test link.md",
+                "file": "Third test node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test link.md",
+                "file": "Third test node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test link.md"
+                "file": "Third test node.md"
               }
             }
           }
@@ -155,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7a9041ae78ccd6b",
+  "active": "bd60bd43a8e5f1d4",
   "lastOpenFiles": [
+    "Third test node.md",
     "test file.md",
     "test link.md"
   ]
